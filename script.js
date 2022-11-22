@@ -1,4 +1,5 @@
-
+var Nav = (function() {
+  
   var
   	nav 		= $('.nav'),
     section = $('.section'),
